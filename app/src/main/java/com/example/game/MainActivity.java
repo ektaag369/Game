@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
         System.out.println("this is main activity");
+        System.out.println("experimental");
 
     }
 
